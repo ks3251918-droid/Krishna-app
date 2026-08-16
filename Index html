@@ -1,10 +1,15 @@
-!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="hi">
 <head>
-    <title>Krishna App</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Krishna App</title>
 </head>
 <body>
-    <h1>Welcome to Krishna App</h1>
-    <p>Krishna App एक आसान और उपयोगी ऐप है।</p>
+
+  <h1>Krishna App</h1>
+
+  <p>यह हमारा मुख्य घर है।</p>
+
 </body>
 </html>
